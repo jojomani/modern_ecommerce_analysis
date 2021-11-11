@@ -63,9 +63,9 @@ one_year_simulation = MCSimulation(
 ## Installation Guide
 
 1. Open Gitbash or terminal and go in to the folder where you want to place the files.
-2. Click on the green "code" button which will allow you to clone. ![<Code button in Github>](images/code.png)
-3. Then click on SSH or HTTPS as a clone method depending on if you have the SSH key setup. You will copy the link. You will then type "git clone" in Gitback or Terminal. Then paste the ssh or https information and press enter. ![<Clone in Github>](images/clone.png)
-4. Next type "git pull" command in Temrinal or GitBash to pull the repository from the remote Github repository to a local directory on your computer. ![<Git pull in Github>](images/clone.png)
+2. Click on the green "code" button which will allow you to clone. ![Code button in Github](images/code.png)
+3. Then click on SSH or HTTPS as a clone method depending on if you have the SSH key setup. You will copy the link. You will then type "git clone" in Gitback or Terminal. Then paste the ssh or https information and press enter. ![Clone in Github](images/clone.png)
+4. Next type "git pull" command in Temrinal or GitBash to pull the repository from the remote Github repository to a local directory on your computer. ![Git pull in Github](images/git_pull.png)
 5. You have access to the project. Also there will be all the python files that the application is depended on. 
 
 ---
@@ -100,9 +100,8 @@ Below is a list of steps/analysis seen in the notebook:
         1. 500 simulations of cumulative portfolio return trajectories over the next 252 trading days for the 5 stocks. 
         2. Calculation for min, median, max and mean.
         3. Graph to illustrate daily returns behavior of the Ecom Portfolio over the next year.
-    10. Calculate the simulated profits/losses o500,000 investment in Ecom Portfolio over the next 252 trading days.
-        1. Simulated outcomes behavior of Ecom Portfolio over the next year.
-    11. OUTCOME: There is a 95% chance that an initial investment of $ 10,000 in the portfolio over the next year will end within in the range of $ 9569.41 and $ 25736.44.
+    10. Calculate the simulated profits/losses of 500,000 investment in Ecom Portfolio over the next 252 trading days.
+    11. OUTCOME: There is a 95% chance that an initial investment of $500,000 in the portfolio over the next year will end within in the range of $488665.11 and $1318929.38.
     
     
 ---
