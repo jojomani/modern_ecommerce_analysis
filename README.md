@@ -40,7 +40,7 @@ The application is depend on MCForecastTools python file provided by the instruc
 The output files were:
 
 ```python
-load_dotenv("/Users/johannmaiga/Downloads/MyFiles/FinTech Class/.api_keys")
+load_dotenv("api_keys")
 ```
 ```python
 alpaca_api_key = os.getenv("ALPACA_API_KEY")
